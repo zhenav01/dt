@@ -8,3 +8,5 @@ return and use it pull
 delete rm
 checkout to restore file
 enable SSH
+
+used push command with - git push -u origin main
