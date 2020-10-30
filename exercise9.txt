@@ -1,0 +1,10 @@
+sign up on github
+create a new repository named dt
+git clone <url> .
+touch and nano exercise9.txt
+add, commit, push to github
+go to github and edit file
+return and use it pull
+delete rm
+checkout to restore file
+enable SSH
