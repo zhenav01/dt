@@ -12,3 +12,12 @@ enable SSH
 used push command with - git push -u origin main
 github is pretty cool
 used pull command with - git pull origin main
+
+merge examples
+git merge example1
+git push origin master
+
+branch examples
+git branch -d example1              to delete locally
+git push origin --delete example1   to delete in remote repository
+git branch -a                       to see branches
