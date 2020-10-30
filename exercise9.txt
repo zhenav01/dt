@@ -9,6 +9,17 @@ delete rm
 checkout to restore file
 enable SSH
 
+steps to use GitHub
+nano example1.txt
+git add example1.txt
+git status
+git commit -m "I used commit command"
+git pull origin main
+git push -u origin master
+git checkout main
+git pull origin main
+git push -u origin main
+
 used push command with - git push -u origin main
 github is pretty cool
 used pull command with - git pull origin main
