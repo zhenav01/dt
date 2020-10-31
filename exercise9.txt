@@ -21,6 +21,22 @@ git pull origin main
 git push -u origin main
 
 test 2. what the
+### git commands with using branches
+git branch feature
+git checkout feature
+#switched to branch feature
+git status
+git add -A
+git commit -m "hello, this is a commit"
+git push -u origin feature
+git checkout main
+#switch back to branch main, up-to-date branch
+git pull origin main
+# *branch
+#Already up-to-date
+git merge feature  #merges feature with main
+git push origin main
+
 
 
 used push command with - git push -u origin main
