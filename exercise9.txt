@@ -9,6 +9,8 @@ delete rm
 checkout to restore file
 enable SSH
 
+#Hello Guys!
+
 steps to use GitHub
 nano example1.txt
 git add example1.txt
@@ -38,9 +40,7 @@ git merge feature  #merges feature with main
 git push origin main
 
 
-
 used push command with - git push -u origin main
-github is pretty cool
 used pull command with - git pull origin main
 
 merge examples
