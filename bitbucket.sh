@@ -19,6 +19,11 @@ find . -name "*.class" -type f -delete
 find . -name "*.out" -type f -delete
 find . -name "*.txt" -type f -delete
 
+git rm -r "*.pyc"
+git rm -r "*.class"
+git rm -r "*.out"
+git rm -r "*.txt"
+
 #9
 git add *
 
